@@ -23,9 +23,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ClawQuant/claw-quant.git"
+    "url": "git+https://github.com/TrendsAI-bit/clawquant.git"
   },
-  "homepage": "https://github.com/ClawQuant/claw-quant",
+  "homepage": "https://github.com/TrendsAI-bit/clawquant",
   "packageManager": "pnpm@10.29.2",
   "dependencies": {
     "@ai-sdk/anthropic": "^3.0.44",

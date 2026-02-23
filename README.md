@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ClawQuant/claw-quant">📖 Documentation</a> · <a href="https://github.com/ClawQuant/claw-quant/blob/master/LICENSE">MIT License</a>
+  <a href="https://github.com/TrendsAI-bit/clawquant">📖 Documentation</a> · <a href="https://github.com/TrendsAI-bit/clawquant/blob/master/LICENSE">MIT License</a>
 </p>
 
 <h1 align="center">ClawQuant</h1>
@@ -113,8 +113,8 @@ graph LR
 ### Setup
 
 ```bash
-git clone https://github.com/ClawQuant/claw-quant.git
-cd claw-quant
+git clone https://github.com/TrendsAI-bit/clawquant.git
+cd clawquant
 pnpm install   # or: npm install
 cp .env.example .env    # then fill in your keys
 ```
@@ -258,11 +258,11 @@ To publish ClawQuant under your own account:
 git add .
 git commit -m "Initial commit: ClawQuant - AI-powered quantitative trading agent"
 git branch -M main
-git remote add origin https://github.com/ClawQuant/claw-quant.git
+git remote add origin https://github.com/TrendsAI-bit/clawquant.git
 git push -u origin main
 ```
 
-Create the `claw-quant` repository on GitHub first (empty, no README). Update the remote URL if your GitHub username differs from `ClawQuant`.
+Create the `clawquant` repository on GitHub first (empty, no README) if pushing to a different account.
 
 ## Credits
 

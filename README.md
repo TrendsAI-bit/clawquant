@@ -258,11 +258,11 @@ To publish ClawQuant under your own account:
 git add .
 git commit -m "Initial commit: ClawQuant - AI-powered quantitative trading agent"
 git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/claw-quant.git
+git remote add origin https://github.com/ClawQuant/claw-quant.git
 git push -u origin main
 ```
 
-Replace `YOUR_USERNAME` with your GitHub username. Create the `claw-quant` repository on GitHub first (empty, no README).
+Create the `claw-quant` repository on GitHub first (empty, no README). Update the remote URL if your GitHub username differs from `ClawQuant`.
 
 ## Credits
 
